@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EntityRelationships xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EntityRelationship Name="business_unit_mlt_infoproduct" />
+  <EntityRelationship Name="lk_mlt_infoproduct_createdby" />
+  <EntityRelationship Name="lk_mlt_infoproduct_modifiedby" />
+  <EntityRelationship Name="owner_mlt_infoproduct" />
+  <EntityRelationship Name="team_mlt_infoproduct" />
+  <EntityRelationship Name="user_mlt_infoproduct" />
+</EntityRelationships>
